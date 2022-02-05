@@ -4,33 +4,261 @@ title: Calendar
 uid: 17b0b975-a12e-66ed-2e4b-64783022d500
 ---
 
-| LEC # | Topics |
-| --- | --- |
-| {{< td-colspan 2 >}}**Part 1: Introduction to Computing**{{< /td-colspan >}} ||
-| 1 | Course Overview |
-| 2 | Algorithms and Object Oriented Programming |
-| 3 | Java® Constructs |
-| 4 | Built-in Operators, Built-in Java Classes, and Classes, Objects & Methods |
-| 5 | Recursion and Iteration, Imperative & Declarative Programming, Abstract Data Types (ADTs), Arrays, and Classes, Object & Methods (continued) |
-| 6 | Designing Methods, Wrapper Classes, Arrays, Packages, Inheritance, Derived Classes, and Dynamic Binding |
-| 7 | Information Hiding, Exceptions |
-| 8 | Vectors, Streams, Input and Output |
-| 9 | Searching and Sorting |
-| 10 | Time Complexity of Algorithms |
-| 11 | Review Session |
-| {{< td-colspan 2 >}}**Part 2: Data and Knowledge Representation**{{< /td-colspan >}} ||
-| 12 | Logic and Medical Ontology |
-| 13 | Boolean Algebra and Predicate Knowledge |
-| 14 | Ontology and Data Model |
-| 15 | Medical Vocabulary Representation and Survey of Medical Coding Systems |
-| 16 | Medical Coding Systems (continued) and UMLS |
-| 17 | Major KR Schemes |
-| 18 | Process |
-| {{< td-colspan 2 >}}**Part 3: Data Management, Querying and Retrieval**{{< /td-colspan >}} ||
-| 19 | Nature of Data |
-| 20 | Data Models |
-| 21 | Maintaining Integrity of Data |
-| 22 | Implementing a Relational Database |
-| 23 | Overview of Object-oriented Data Management |
-| 24 | Modeling for Analytical Processing of Data |
-| 25 | No Lecture, Final Project Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part 1: Introduction to Computing**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Algorithms and Object Oriented Programming
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Java® Constructs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Built-in Operators, Built-in Java Classes, and Classes, Objects & Methods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Recursion and Iteration, Imperative & Declarative Programming, Abstract Data Types (ADTs), Arrays, and Classes, Object & Methods (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Designing Methods, Wrapper Classes, Arrays, Packages, Inheritance, Derived Classes, and Dynamic Binding
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Information Hiding, Exceptions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Vectors, Streams, Input and Output
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Searching and Sorting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Time Complexity of Algorithms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Review Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part 2: Data and Knowledge Representation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Logic and Medical Ontology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Boolean Algebra and Predicate Knowledge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Ontology and Data Model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Medical Vocabulary Representation and Survey of Medical Coding Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Medical Coding Systems (continued) and UMLS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Major KR Schemes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Process
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part 3: Data Management, Querying and Retrieval**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Nature of Data
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Data Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Maintaining Integrity of Data
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Implementing a Relational Database
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Object-oriented Data Management
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling for Analytical Processing of Data
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+No Lecture, Final Project Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
