@@ -4,6 +4,7 @@ description: 'Lecture 9 Code (zip file includes: TestBinarySearch.java; TestMerg
   and TestSelectionSort.java)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-952-computing-for-biomedical-scientists-fall-2002/d55646e2898eb82c77f005ca66dd500e_code_lecture9.zip
 file_type: application/zip
+parent_uid: 7ae67581-2373-6f35-72ca-172472cdbe88
 resourcetype: Other
 title: code_lecture9.zip
 uid: d55646e2-898e-b82c-77f0-05ca66dd500e

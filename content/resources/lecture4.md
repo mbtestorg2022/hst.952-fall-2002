@@ -4,6 +4,7 @@ description: 'Lecture Notes: Built-in Operators, Built-in Java Classes, and  Cla
   Objects & Methods.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-952-computing-for-biomedical-scientists-fall-2002/fba3452284edf60b021d66081db43bc5_lecture4.pdf
 file_type: application/pdf
+parent_uid: 7ae67581-2373-6f35-72ca-172472cdbe88
 resourcetype: Document
 title: lecture4.pdf
 uid: fba34522-84ed-f60b-021d-66081db43bc5

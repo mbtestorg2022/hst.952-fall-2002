@@ -5,6 +5,7 @@ description: 'Lecture 8 Code (zip file includes: TestRotation2.java; TestVector2
   and MEDINFO.TXT)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-952-computing-for-biomedical-scientists-fall-2002/cc308d7f2e74f7a01bfb7de8eadf6021_code_lecture8.zip
 file_type: application/zip
+parent_uid: 7ae67581-2373-6f35-72ca-172472cdbe88
 resourcetype: Other
 title: code_lecture8.zip
 uid: cc308d7f-2e74-f7a0-1bfb-7de8eadf6021
